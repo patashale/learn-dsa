@@ -25,6 +25,6 @@
 
 #### Logo:
 
-   Learn DSA | Learn DSA
-  :-------------------------:|:-------------------------:
+Learn DSA `#06038D` | Learn DSA `#06038D`
+:-------------------------:|:-------------------------:
 ![Learn DSA Logo](https://github.com/patashale/learn-dsa/assets/68323012/28200c31-9c99-4694-88a0-77eb7431619f) | ![Learn DSA Logo](https://github.com/patashale/learn-dsa/assets/68323012/28200c31-9c99-4694-88a0-77eb7431619f)
