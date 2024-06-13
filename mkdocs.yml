@@ -4,6 +4,8 @@ site_author: Patashale™
 site_description: Learn everything about DSA (data structures & algorithms) here at Patashale™.
 repo_url: https://github.com/patashale/learn-dsa
 repo_name: patashale/learn-dsa
+logo: assets/logo.png
+favicon: assets/favicon.png
 theme:
   name: material
   language: en
