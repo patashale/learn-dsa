@@ -8,6 +8,10 @@
     --md-typeset-a-color: #FFFFFF;
 }
 
+div.md-content {
+    text-align: justify;
+}
+
 div.md-header__topic {
     display: none;
 }
